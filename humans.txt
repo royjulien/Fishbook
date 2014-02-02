@@ -1,0 +1,30 @@
+/* humanstxt.org */
+
+/* TEAM */
+
+Name: 			Julien Roy
+Site:			http://royjulien.com/fishbook/
+Twitter:		@goldenpentium
+Location:		Santa Monica, CA, USA
+
+/* THANKS */
+
+Mark Zuckerberg
+
+/* SITE */
+
+Standards: 
+
+HTML5
+CSS3
+Javascript
+Jquery
+Ajax
+PHP 5
+
+
+Components: 
+
+CSS reset:		http://meyerweb.com/eric/tools/css/reset/ 
+Modernizr: 		http://modernizr.com
+jQuery: 		http://jquery.com

@@ -1,0 +1,29 @@
+#first-name,
+#last-name,
+#new-email,
+#re-email,
+#password {
+	padding: 8px 10px;
+	margin: 5px -1px;
+	width: 171px;
+	font-size: 18px;
+	border: 1px solid #BDC7D8;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	   -moz-border-radius: 5px;
+}
+#last-name {
+	margin-left: 9px;
+}
+#new-email,
+#re-email,
+#password {
+	width: 377px;
+}
+header#login #login-submit {
+	height: 22px;
+}
+#posting-input input[type=submit] {
+	margin-top: 3px;
+	margin-left: -81px;
+}
