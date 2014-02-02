@@ -3,6 +3,7 @@ Fishbook
 
 What to do when you're bored?
 Make your own version of Facebook from scratch.
+[Fishbook Demo](http://royjulien.com.fishbook)
 
 Fishbook is a perfect duplicate of Facebook's homepage and newfeed page.
 It's using a custom made MVC from scratch in PHP.
