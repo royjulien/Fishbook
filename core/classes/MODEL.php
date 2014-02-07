@@ -8,9 +8,9 @@
 class MODEL {
 	
 	private static $mysql_hostname    = 'localhost';
-	private static $mysql_db_name     = 'fishbook';
-	private static $mysql_username    = 'thefish';
-	private static $mysql_password    = 'YesItsFishy';
+	private static $mysql_db_name     = 'DB_name';
+	private static $mysql_username    = 'DB_usr';
+	private static $mysql_password    = 'DB_pass';
 	
 	//storage for our database object
 	private static $db                = NULL;
